@@ -12,7 +12,7 @@
 - How to reach me :
 
   - [![Gmail Badge](https://img.shields.io/badge/-officialdevanshverma@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:officialdevanshverma@gmail.com)](mailto:officialdevanshverma@gmail.com) &emsp;
-  - [![Linkedin Badge](https://img.shields.io/badge/vermacoder-ffffff?&style=plastic&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/vermacoder)](https://www.linkedin.com/vermacoder)
+  - [![Linkedin Badge](https://img.shields.io/badge/vermacoder-ffffff?&style=plastic&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/vermacoder)](www.linkedin.com/in/vermacoder)
   - ![Profile Viwes](https://komarev.com/ghpvc/?username=dvtechoff&label=Profile+Views&base=493)
 
 
